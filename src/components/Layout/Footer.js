@@ -39,7 +39,7 @@ const Footer = () => {
             },
           }}
         >
-          All Rights Reserved &copy; @Priyanka
+          All Rights Reserved &copy; @PriyankaGadekar
         </Typography>
       </Box>
     </>
